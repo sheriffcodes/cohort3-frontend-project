@@ -1,0 +1,20 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Lexend', sans-serif;
+}
+:root {
+    --primary-color: #713586;
+    --secondary-color: #FF7536;
+    --accent-color: #84AEFA;
+    --error-color: #F31623;
+    --success-color: #00C851;
+    --warning-color: #FF7D04;
+    --neutral-color1: #121212;
+    --neutral-color2: #F9F9F9;
+    --gray1: #616161;
+    --gray2: #B0B0B0;
+    --gray3: #D0D0D0;
+    --gray4: #E5E2E2;
+}
